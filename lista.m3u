@@ -1,4 +1,3 @@
-#EXTM3U
 #EXTINF:-1,[000] Movistar+ HD
 rtp://@239.0.5.185:8208
 #EXTINF:-1,[001] La 1 HD
@@ -13,42 +12,39 @@ rtp://@239.0.0.177:8208
 rtp://@239.0.0.176:8208
 #EXTINF:-1,[006] La Sexta HD
 rtp://@239.0.0.187:8208
-#EXTINF:-1,[007] #0 HD
+#EXTINF:-1,[007] #0 HD {DRM}
 rtp://@239.0.5.187:8208
-#EXTINF:-1,[008] #Vamos HD
+#EXTINF:-1,[008] #Vamos HD {DRM}
 rtp://@239.0.5.197:8208
-
 #EXTINF:-1,[009] Canal Sur 1 HD *
 rtp://@239.0.5.192:8208
-
-
-#EXTINF:-1,[013] FOX HD
+#EXTINF:-1,[013] FOX HD {DRM}
 rtp://@239.0.9.134:8208
-#EXTINF:-1,[014] AXN HD
+#EXTINF:-1,[014] AXN HD {DRM}
 rtp://@239.0.9.131:8208
-#EXTINF:-1,[015] TNT HD
+#EXTINF:-1,[015] TNT HD {DRM}
 rtp://@239.0.5.87:8208
-#EXTINF:-1,[016] Comedy Central HD
+#EXTINF:-1,[016] Comedy Central HD {DRM}
 rtp://@239.0.0.174:8208
-#EXTINF:-1,[017] Calle 13 HD
+#EXTINF:-1,[017] Calle 13 HD {DRM}
 rtp://@239.0.5.74:8208
 #EXTINF:-1,[018] COSMO HD {DRM}
 rtp://@239.0.5.71:8208
-#EXTINF:-1,[019] AMC HD
+#EXTINF:-1,[019] AMC HD {DRM}
 rtp://@239.0.9.132:8208
-#EXTINF:-1,[020] FOX life HD
+#EXTINF:-1,[020] FOX life HD {DRM}
 rtp://@239.0.0.165:8208
-#EXTINF:-1,[021] AXN White HD
+#EXTINF:-1,[021] AXN White HD {DRM}
 rtp://@239.0.5.79:8208
-#EXTINF:-1,[022] Syfy HD
+#EXTINF:-1,[022] Syfy HD {DRM}
 rtp://@239.0.5.75:8208
 #EXTINF:-1,[026] Neox HD
 rtp://@239.0.5.207:8208
 #EXTINF:-1,[027] Atreseries HD
 rtp://@239.0.0.190:8208
-#EXTINF:-1,[037] TCM HD
+#EXTINF:-1,[037] TCM HD {DRM}
 rtp://@239.0.5.89:8208
-#EXTINF:-1,[038] Hollywood HD
+#EXTINF:-1,[038] Hollywood HD {DRM}
 rtp://@239.0.5.76:8208
 #EXTINF:-1,[039] Sundance Channel HD {DRM}
 rtp://@239.0.5.72:8208
@@ -56,11 +52,11 @@ rtp://@239.0.5.72:8208
 rtp://@239.0.0.180:8208
 #EXTINF:-1,[045] #Vamos HD
 rtp://@239.0.5.197:8208
-#EXTINF:-1,[058] UBEAT HD
+#EXTINF:-1,[058] UBEAT HD {DRM}
 rtp://@239.0.0.178:8208
-#EXTINF:-1,[061] Eurosport 1 HD
+#EXTINF:-1,[061] Eurosport 1 HD {DRM}
 rtp://@239.0.9.135:8208
-#EXTINF:-1,[062] Eurosport 2 HD
+#EXTINF:-1,[062] Eurosport 2 HD {DRM}
 rtp://@239.0.5.105:8208
 #EXTINF:-1,[063] GOL HD
 rtp://@239.0.5.189:8208
@@ -68,21 +64,21 @@ rtp://@239.0.5.189:8208
 rtp://@239.0.0.188:8208
 #EXTINF:-1,[068] Real Madrid TV HD
 rtp://@239.0.0.179:8208
-#EXTINF:-1,[069] Barça TV HD
+#EXTINF:-1,[069] Barça TV HD {DRM}
 rtp://@239.0.5.199:8208
-#EXTINF:-1,[070] National Geographic HD
+#EXTINF:-1,[070] National Geographic HD {DRM}
 rtp://@239.0.5.78:8208
-#EXTINF:-1,[071] Nat Geo Wild HD
+#EXTINF:-1,[071] Nat Geo Wild HD {DRM}
 rtp://@239.0.9.136:8208
-#EXTINF:-1,[072] Historia HD
+#EXTINF:-1,[072] Historia HD {DRM}
 rtp://@239.0.0.166:8208
-#EXTINF:-1,[073] Discovery Channel HD
+#EXTINF:-1,[073] Discovery Channel HD {DRM}
 rtp://@239.0.5.77:8208
 #EXTINF:-1,[074] Odisea HD {DRM}
 rtp://@239.0.5.82:8208
-#EXTINF:-1,[076] Viajar HD
+#EXTINF:-1,[076] Viajar HD {DRM}
 rtp://@239.0.5.73:8208
-#EXTINF:-1,[080] Canal Cocina HD
+#EXTINF:-1,[080] Canal Cocina HD {DRM}
 rtp://@239.0.0.169:8208
 #EXTINF:-1,[084] Nova HD
 rtp://@239.0.5.209:8208
@@ -90,14 +86,16 @@ rtp://@239.0.5.209:8208
 rtp://@239.0.5.210:8208
 #EXTINF:-1,[086] BeMad HD
 rtp://@239.0.0.182:8208
-#EXTINF:-1,[091] Disney Junior HD
+#EXTINF:-1,[091] Disney Junior HD {DRM}
 rtp://@239.0.5.181:8208
-#EXTINF:-1,[092] Canal Panda HD
+#EXTINF:-1,[092] Canal Panda HD {DRM}
 rtp://@239.0.0.171:8208
-#EXTINF:-1,[093] Nick Jr HD
+#EXTINF:-1,[093] Nick Jr HD {DRM}
 rtp://@239.0.0.167:8208
-#EXTINF:-1,[094] Nickelodeon HD
+#EXTINF:-1,[094] Nickelodeon HD {DRM}
 rtp://@239.0.5.204:8208
+#EXTINF:-1,[094] Nickelodeon HD
+rtp://@239.0.5.193:8208
 #EXTINF:-1,[096] Disney Channel HD
 rtp://@239.0.0.173:8208
 #EXTINF:-1,[098] Clan TVE HD
@@ -105,83 +103,17 @@ rtp://@239.0.0.184:8208
 #EXTINF:-1,[166] Movistar Eventos HD
 rtp://@239.0.0.204:8208
 
-
-
-#EXTINF:-1, [057] Movistar F1 HD
-rtp://@239.0.5.246:8208
-
-#EXTINF:-1, [220] Multicamara 1 HD F1
-rtp://@239.0.5.121:8208
-#EXTINF:-1, [221] Multi 1 HD F1
-rtp://@239.0.5.230:8208
-#EXTINF:-1, [222] Multi 2 HD F1
-rtp://@239.0.5.122:8208
-#EXTINF:-1, [223] Multi 3 HD F1
-rtp://@239.0.5.117:8208
-#EXTINF:-1, [224] Multi 4 HD F1
-rtp://@239.0.5.118:8208
-#EXTINF:-1, [225] Multi 5 HD F1
-rtp://@239.0.5.119:8208
-#EXTINF:-1, [226] Multi 6 HD F1
-rtp://@239.0.5.120:8208
-
-
-
-#EXTINF:-1, [065] Caza y Pesca {DRM}
-rtp://@239.0.3.1:8208
-#EXTINF:-1, [066] Iberalia {DRM}
-rtp://@239.0.5.1:8208
-#EXTINF:-1, [067] Toros TV {DRM}
-rtp://@239.0.1.140:8208
-#EXTINF:-1, [107] Mezzo {DRM}
-rtp://@239.0.4.65:8208
-#EXTINF:-1, [108] Mezzo Live {DRM}
-rtp://@239.0.8.65:8208
-#EXTINF:-1, [109] Stingray Classica {DRM}
-rtp://@239.0.3.193:8208
-#EXTINF:-1, [111] Playboy TV {DRM}
-rtp://@239.0.5.3:8208
-#EXTINF:-1, [134] Telefe Internacional
-rtp://@239.0.8.3:8208
-#EXTINF:-1, [135] Canal Estrellas
-rtp://@239.0.8.193:8208
-#EXTINF:-1, [138] TV Chile Internacional
-rtp://@239.0.8.1:8208
-#EXTINF:-1, [139] Nuestra Tele
-rtp://@239.0.7.131:8208
-#EXTINF:-1, [141] Cubavision
-rtp://@239.0.8.67:8208
-#EXTINF:-1, [142] teleSUR
-rtp://@239.0.8.69:8208
-
-
-
-#EXTINF:-1, [065] Caza y Pesca HD {DRM}
-rtp://@239.0.6.54:8208
-#EXTINF:-1, [066] Iberalia HD {DRM}
-rtp://@239.0.5.188:8208
-#EXTINF:-1, [067] Toros TV HD {DRM}
-rtp://@239.0.0.191:8208
-#EXTINF:-1, [108] Mezzo Live HD {DRM}
-rtp://@239.0.6.55:8208
-#EXTINF:-1, [109] Stingray Classica HD {DRM}
-rtp://@239.0.9.137:8208
-
-
-
-
-
-#EXTINF:-1, [440] M. LaLiga UHD {DRM}
-rtp://@239.0.5.205:8208
-#EXTINF:-1, [441] Movistar L.Campeones UHD {DRM}
-rtp://@239.0.5.211:8208
-#EXTINF:-1, [442] Movistar F1 UHD {DRM}
-rtp://@239.0.5.206:8208
-#EXTINF:-1, [443] M. LaLiga 1 UHD HDR {DRM}
-rtp://@239.0.5.194:8208
-
-#EXTINF:-1, [640] Movistar LaLiga UHD HDR
-rtp://@239.0.5.251:8208
-
-#EXTINF:-1, [678] PiP M.LaLiga UHD
-rtp://@239.0.1.196:8208
+#EXTINF:-1, [060] #Vamos Bar
+rtp://@239.0.6.8:8208
+#EXTINF:-1, [146] LaLiga TV Bar 1
+rtp://@239.0.3.115:8208
+#EXTINF:-1, [147] LaLiga TV Bar 2
+rtp://@239.0.3.113:8208
+#EXTINF:-1, [148] LaLiga TV Bar 3
+rtp://@239.0.3.112:8208
+#EXTINF:-1, [149] LaLiga TV Bar 4
+rtp://@239.0.3.114:8208
+#EXTINF:-1, [196] #Vamos Bar 1
+rtp://@239.0.0.124:8208
+#EXTINF:-1, [197] #Vamos Bar 2
+rtp://@239.0.0.123:8208
