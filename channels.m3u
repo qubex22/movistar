@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 logo="http://172.16.0.250:9981/imagecache/48" tvg-id="1d4d1e5e475b8e0a7c1b398074f73072",F1
+http://172.16.0.250:9981/stream/channelid/1579044125?profile=pass
