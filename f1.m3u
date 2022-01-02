@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:0,F1
 http://172.16.0.99/hdmi
+#EXTINF:0,FUTBOL
+http://172.16.0.250:6878/ace/getstream?id=87bff2403eb507ed8b18f9409b32afb167b516a1
