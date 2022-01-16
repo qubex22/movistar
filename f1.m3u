@@ -2,4 +2,4 @@
 #EXTINF:0,F1
 http://172.16.0.99/hdmi
 #EXTINF:0,FUTBOL
-udp://239.0.0.1:12345?pkt_size=188&buffer_size=65535
+http://172.16.0.250:8282/hls/futbol
