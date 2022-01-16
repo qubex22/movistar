@@ -1,5 +1,3 @@
 #EXTM3U
 #EXTINF:0,F1
 http://172.16.0.99/hdmi
-#EXTINF:0,FUTBOL 2
-udp://@239.0.0.1:12345
