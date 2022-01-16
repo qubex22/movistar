@@ -2,4 +2,4 @@
 #EXTINF:0,F1
 http://172.16.0.99/hdmi
 #EXTINF:0,FUTBOL
-http://172.16.0.250:8008/ace/getstream?id=d6058808481f5df7897e8eff69367eee68322684
+udp://239.0.0.1:12345
