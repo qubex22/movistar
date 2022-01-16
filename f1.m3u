@@ -2,4 +2,4 @@
 #EXTINF:0,F1
 http://172.16.0.99/hdmi
 #EXTINF:0,FUTBOL
-http://172.16.0.250:8282/hls/futbol
+http://172.16.0.250:8282/hls/futbol.m3u8
